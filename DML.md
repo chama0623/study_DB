@@ -4,6 +4,8 @@ SQL文はDMLとDDLの2つに分けられる. DML(Data Manipulate Language);デ�
 DDL(Data Definition Language);データ操作言語はcreateやdropを代表とする概念スキーマに関する命令である. ここではDMLの代表的な命令について説明する.  
 文法構造について, []は省略可能なもの, |はORを表す.
 
+# DML命令
+ここではDML命令としてselect, insert, update, deleteの4つの文について説明する.
 
 ## select
 select文の基本構文を次に示す. select文で列名を指定することで射影演算を行うことができる. さらに列名のリストに' * 'を指定することで全ての列を取り出すことができる.
