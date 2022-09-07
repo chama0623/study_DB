@@ -15,6 +15,7 @@ DBのお勉強をするためのリポジトリです.
 11. DDL : DDL.md
 12. 埋め込みSQL : embedded_sql.md
 13. トランザクション管理 : transaction_manage.md
+14. 分散データベース : distributed_db.md
 
 # 参考文献
 大滝みや子, 岡嶋祐史, "令和04年【春期】【秋期】応用情報技術者合格教本", 株式会社技術評論社, 2021
